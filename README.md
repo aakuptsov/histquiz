@@ -1,1 +1,1 @@
-# HistQuiz_project
+# histquiz
